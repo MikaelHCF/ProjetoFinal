@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1724149456
+::res://::1724150945
 icon.svg::CompressedTexture2D::221815478364810335::1723309632::1723309638::1::::<><>::
-::res://actors/::1724148457
-player.tscn::PackedScene::560857118488001131::1724148457::0::1::::<><>::res://scripts/player.gd<>uid://cvfn4npno2yj3::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png
+::res://actors/::1724149459
+player.tscn::PackedScene::560857118488001131::1724149459::0::1::::<><>::res://scripts/player.gd<>uid://cvfn4npno2yj3::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png
 ::res://assets/::1724148219
 ::res://assets/Mini FX, Items & UI/::1724148218
 LICENSE.txt::TextFile::-1::1723309928::0::1::::<><>::
@@ -137,7 +137,7 @@ Claw_Animations (16 x 16).png::CompressedTexture2D::1357563240785814425::1723309
 Hurt (32 x 32).png::CompressedTexture2D::3641988669422231292::1723309858::1723316212::1::::<><>::
 Movement_(Flip_image_back_and_forth) (32 x 32).png::CompressedTexture2D::751981128383799695::1723309858::1723316212::1::::<><>::
 Reaching_to_Pinch (32 x 32).png::CompressedTexture2D::8194289116474498937::1723309858::1723316212::1::::<><>::
-::res://levels/::1724148457
-wordl_01.tscn::PackedScene::1519266287489769723::1724148457::0::1::::<><>::uid://b81n5275dvhc5::::res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://b6i53a7b5pxxk::::res://assets/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://h8xh8osxlomt::::res://actors/player.tscn
+::res://levels/::1724149459
+wordl_01.tscn::PackedScene::1519266287489769723::1724149459::0::1::::<><>::uid://b81n5275dvhc5::::res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://b6i53a7b5pxxk::::res://assets/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://h8xh8osxlomt::::res://actors/player.tscn
 ::res://scripts/::1724148220
 player.gd::GDScript::-1::1723316740::0::1::::<>CharacterBody2D<>::
