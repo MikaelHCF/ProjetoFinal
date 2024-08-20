@@ -1,2 +1,2 @@
-res://levels/wordl_01.tscn
 res://actors/player.tscn
+res://scripts/player.gd
