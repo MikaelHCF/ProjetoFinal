@@ -28,4 +28,4 @@ func _physics_process(delta):
 	move_and_slide()
 	
 	
-	#o ratao gosta do grosso
+	#o ratao so gosta do grosso

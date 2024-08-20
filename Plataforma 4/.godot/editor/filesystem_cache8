@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1724151648
+::res://::1724152173
 icon.svg::CompressedTexture2D::221815478364810335::1724151284::1724151317::1::::<><>::
-::res://actors/::1724151384
-player.tscn::PackedScene::560857118488001131::1724151384::0::1::::<><>::res://scripts/player.gd<>uid://cvfn4npno2yj3::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png
+::res://actors/::1724151747
+player.tscn::PackedScene::560857118488001131::1724151747::0::1::::<><>::res://scripts/player.gd<>uid://cvfn4npno2yj3::::res://assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png
 ::res://assets/::1724151284
 ::res://assets/Mini FX, Items & UI/::1724151284
 LICENSE.txt::TextFile::-1::1724151284::0::1::::<><>::
@@ -139,5 +139,5 @@ Movement_(Flip_image_back_and_forth) (32 x 32).png::CompressedTexture2D::7519811
 Reaching_to_Pinch (32 x 32).png::CompressedTexture2D::8194289116474498937::1724151284::1724151317::1::::<><>::
 ::res://levels/::1724151443
 wordl_01.tscn::PackedScene::1519266287489769723::1724151443::0::1::::<><>::uid://b81n5275dvhc5::::res://assets/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://b6i53a7b5pxxk::::res://assets/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://h8xh8osxlomt::::res://actors/player.tscn
-::res://scripts/::1724151284
-player.gd::GDScript::-1::1724151284::0::1::::<>CharacterBody2D<>::
+::res://scripts/::1724151747
+player.gd::GDScript::-1::1724151747::0::1::::<>CharacterBody2D<>::
